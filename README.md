@@ -5,4 +5,4 @@
 - [https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer](https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer)
 - [https://microsoftlearning.github.io/PL-200-Power-Platform-Functional-Consultant](https://microsoftlearning.github.io/PL-200-Power-Platform-Functional-Consultant)
 - [https://github.com/MicrosoftLearning/PL-600-Microsoft-Power-Platform-Solution-Architect](https://github.com/MicrosoftLearning/PL-600-Microsoft-Power-Platform-Solution-Architect)
-- [PMI Citizen Development](https://www.pmi.org/citizen-developer)
+- [PMI Citizen Development](https://www.pmi.org/citizen-developer) [https://www.pmi.org/citizen-developer](https://www.pmi.org/citizen-developer)
