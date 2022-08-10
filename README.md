@@ -2,6 +2,8 @@
 
 - Power Platform Adoption
   - [https://adoption.microsoft.com/en-us/powerplatform](https://adoption.microsoft.com/en-us/powerplatform)
+- Power Platform Workshops
+  [https://powerplatform.microsoft.com/training-workshops](https://powerplatform.microsoft.com/training-workshops)
 - PL-900 Microsoft Power Platform Fundamentals
   - [https://microsoftlearning.github.io/PL-900-Microsoft-Power-Platform-Fundamentals](https://microsoftlearning.github.io/PL-900-Microsoft-Power-Platform-Fundamentals)
 - PL-100 Microsoft Power Platform App Maker
