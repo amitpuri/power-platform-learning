@@ -7,3 +7,4 @@
 - [https://github.com/MicrosoftLearning/PL-600-Microsoft-Power-Platform-Solution-Architect](https://github.com/MicrosoftLearning/PL-600-Microsoft-Power-Platform-Solution-Architect)
 - [PMI Citizen Development](https://www.pmi.org/citizen-developer) [https://www.pmi.org/citizen-developer](https://www.pmi.org/citizen-developer)
 - [https://docs.microsoft.com/en-us/power-platform/alm/devops-build-tools](https://docs.microsoft.com/en-us/power-platform/alm/devops-build-tools)
+- [Power Platform Actions Lab](https://github.com/microsoft/powerplatform-actions-lab) [https://github.com/microsoft/powerplatform-actions-lab](https://github.com/microsoft/powerplatform-actions-lab)
