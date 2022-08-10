@@ -1,5 +1,7 @@
 # Power Platform Learning
 
+In Low-code, no-code platform, various standard UI templates are available to design screen for user inputs and reports and charts are available like drag drop functionality into data visualisation, various programming languages constructs are encapsulated in virtual flow, 
+
 - Power Platform Adoption
   - [https://adoption.microsoft.com/en-us/powerplatform](https://adoption.microsoft.com/en-us/powerplatform)
 - Power Platform Workshops
