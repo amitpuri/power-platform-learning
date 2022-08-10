@@ -1,4 +1,4 @@
-# pp-learning
+# Power Platform Learning
 
 - Power Platform Adoption
   - [https://adoption.microsoft.com/en-us/powerplatform](https://adoption.microsoft.com/en-us/powerplatform)
