@@ -6,3 +6,4 @@
 - [https://microsoftlearning.github.io/PL-200-Power-Platform-Functional-Consultant](https://microsoftlearning.github.io/PL-200-Power-Platform-Functional-Consultant)
 - [https://github.com/MicrosoftLearning/PL-600-Microsoft-Power-Platform-Solution-Architect](https://github.com/MicrosoftLearning/PL-600-Microsoft-Power-Platform-Solution-Architect)
 - [PMI Citizen Development](https://www.pmi.org/citizen-developer) [https://www.pmi.org/citizen-developer](https://www.pmi.org/citizen-developer)
+- [https://docs.microsoft.com/en-us/power-platform/alm/devops-build-tools](https://docs.microsoft.com/en-us/power-platform/alm/devops-build-tools)
