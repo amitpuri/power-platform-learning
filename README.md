@@ -11,6 +11,9 @@
 - PL-600 Microsoft Power Platform Solution Architect
   - [https://github.com/MicrosoftLearning/PL-600-Microsoft-Power-Platform-Solution-Architect](https://github.com/MicrosoftLearning/PL-600-Microsoft-Power-Platform-Solution-Architect)
 - PMI Citizen Development
+  - PMI Citizen Developer Foundation
+  - PMI Citizen Developer Practitioner
+  - PMI Citizen Developer Business Architect
   - [https://www.pmi.org/citizen-developer](https://www.pmi.org/citizen-developer)
 - Power Platform ALM
   - [https://docs.microsoft.com/power-platform/alm](https://docs.microsoft.com/power-platform/alm)
