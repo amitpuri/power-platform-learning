@@ -8,6 +8,7 @@ In Low-code, no-code platform, various standard UI templates are available to de
   - [https://powerplatform.microsoft.com/training-workshops](https://powerplatform.microsoft.com/training-workshops)
 - bonsai
   - [https://docs.microsoft.com/bonsai](https://docs.microsoft.com/bonsai)
+  - [https://github.com/microsoft/moabian](https://github.com/microsoft/moabian)
 - bonsai-api
   - [https://github.com/microsoft/microsoft-bonsai-api](https://github.com/microsoft/microsoft-bonsai-api)
 - PL-900 Microsoft Power Platform Fundamentals
