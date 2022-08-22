@@ -30,3 +30,5 @@ In Low-code, no-code platform, various standard UI templates are available to de
   - [https://docs.microsoft.com/power-platform/alm](https://docs.microsoft.com/power-platform/alm)
 - Power Platform Actions Lab
   - [https://github.com/microsoft/powerplatform-actions-lab](https://github.com/microsoft/powerplatform-actions-lab)
+- Power Platform academy
+  - [https://www.powerplatformlearn.academy](https://www.powerplatformlearn.academy)
